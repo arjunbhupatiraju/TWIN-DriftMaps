@@ -1,0 +1,15 @@
+# data and large outputs are not stored in the repository
+data/
+**/sessions/
+**/features/
+**/nulls/
+**/rich/
+*.npz
+*.npy
+*.nwb
+*.mat
+*.zip
+*.tar
+__pycache__/
+*.pyc
+.DS_Store

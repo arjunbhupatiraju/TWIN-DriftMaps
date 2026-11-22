@@ -1,0 +1,10 @@
+ONE-api==3.6.0
+iblatlas==1.3.0
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+pandas==3.0.6
+matplotlib
+h5py
+pynwb
+dandi
