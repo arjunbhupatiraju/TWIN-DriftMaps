@@ -32,7 +32,7 @@ Tested with Python 3.13 on macOS (8 GB RAM; use 1 to 4 workers).
 | Calibration, drift law, bias-corrected share (C1 to C4) | `analysis/part7/calibrate.py` | `calibrate`, `calibrate-c4` |
 | Block-prior map and prevalence (G1, H1 to H4) | `analysis/part6/prior_map.py` | `prior-map` |
 | Prior after movement removal (M1) | `analysis/part6/prior_movement.py` | `prior-movement` |
-| Behaviour link (B1, P1, P2) | `analysis/part7/prior_choice.py`, `analysis/part7/prior_choice_pooled.py` and the B1 script | `prior-behavior`, `robustness`, `prior-choice-pooled` |
+| Behaviour link (B1, P1, P2) | `analysis/part7/prior_choice.py`, `analysis/part7/prior_choice_pooled.py` and `analysis/part6/prior_followup.py behavior` | `prior-behavior`, `robustness`, `prior-choice-pooled` |
 | Map reliability across 11 task variables | `analysis/part7/mapquality.py` | `mapquality` |
 | Replication prediction | `analysis/part6/atlas.py`, `analysis/part6/replication.py` | `replication`, `replication-confirm`, `twin-v2` |
 | Shared prior state (T1 to T6) | `analysis/part7/shared_prior.py` | `shared-prior` |
